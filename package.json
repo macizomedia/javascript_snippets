@@ -1,0 +1,24 @@
+{
+  "name": "javascript_snippets",
+  "version": "1.0.0",
+  "description": "A set of javascript fundamentals exercises and chalanges written to work on node console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/macizomedia/DCI-projects.git"
+  },
+  "keywords": [
+    "learning",
+    "learn-to-code",
+    "learning-by-doing"
+  ],
+  "author": "Blas Oronoz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macizomedia/DCI-projects/issues"
+  },
+  "homepage": "https://github.com/macizomedia/DCI-projects#readme"
+}
