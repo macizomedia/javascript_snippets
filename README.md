@@ -2,15 +2,19 @@
 
 ## About 
 
-* Abstract
-“The programmer who refuses to keep exploring will surely stagnate, forget his joy, lose the will to program (and become a manager).”
-― Marijn Haverbeke, Eloquent JavaScript: A Modern Introduction to Programming 
+The repo is a curated collection of basic computer science concepts along with exercises to understand in a practical way with useful examples of the basic concept of javascript and Programming in general.
+
+This is a practical guide ideally for an intermediate learner that is already familiar with the basics concepts of JavaScript and its syntax.
+
+
+> “The programmer who refuses to keep exploring will surely stagnate, forget his joy, lose the will to program (and become a manager).”
+> ― Marijn Haverbeke, Eloquent JavaScript: A Modern Introduction to Programming 
 
 * Project status: working/prototype
 
 ## Table of contents
 
-> * [Javascript Fudamentals / Repository Name](#title--repository-name)
+> * [Javascript Fudamentals / Repository Name](#javascript-fundamentals)
 >   * [About / Synopsis](#about--synopsis)
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
@@ -25,8 +29,6 @@
 >   * [About Nuxeo](#about-nuxeo)
 
 ## Installation
-
-Sample:
 
 * Clone this repo command line: `git clone https://github.com/macizomedia/javascript_snippets`
 
